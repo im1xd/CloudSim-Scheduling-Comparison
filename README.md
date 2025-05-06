@@ -32,3 +32,9 @@ This clearly shows the performance impact of scheduling strategies.
 1. Clone the repository:
    ```bash
    git clone https://github.com/im1xd/CloudSim-Scheduling-Comparison.git
+📃 License
+This project is licensed under the MIT License.
+
+🙋 Author
+Imad Abid
+📧 imadabid117@gmail.com
